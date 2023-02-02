@@ -1,0 +1,20 @@
+{
+  "name": "twilio-sms",
+  "version": "1.0.0",
+  "description": "Envio de sms utilizando twilio",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/JonasMoreira5/Twilio-SMS.git"
+  },
+  "keywords": [],
+  "author": "Jonas Moreira",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/JonasMoreira5/Twilio-SMS/issues"
+  },
+  "homepage": "https://github.com/JonasMoreira5/Twilio-SMS#readme"
+}
