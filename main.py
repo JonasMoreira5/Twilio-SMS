@@ -9,5 +9,4 @@ message = client.messages \
                      from_='+12052739236',
                      to='+5592994041016'
                  )
-print("Mensagem Envida!")
-print(message.sid)
+print(f"Mensagem Enviada com Sucesso!\nID:{message.sid}")
